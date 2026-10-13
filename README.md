@@ -82,3 +82,49 @@ store/状態管理Zustand推奨
 ├── partyStore.ts
 ├── battleStore.ts
 
+
+
+v0.1.0 タイトル画面
+v0.2.0 キャラ作成
+v0.3.0 酒場
+v0.4.0 ダンジョン
+v0.5.0 戦闘
+v1.0.0 オフライン完成
+
+カード例
+タイトル画面
+酒場画面
+訓練場
+商店
+地下1階マップ
+戦闘システム
+僧侶呪文
+魔法使い呪文
+セーブロード
+
+
+battleLogic.ts
+battleStore.ts
+battleView.tsx
+
+
+Phase1 タイトル画面
+↓
+Phase2 キャラ作成
+↓
+Phase3 酒場
+↓
+Phase4 訓練場
+↓
+Phase5 商店
+↓
+Phase6 ダンジョン移動
+↓
+Phase7 戦闘
+↓
+Phase8 呪文
+↓
+Phase9 セーブロード
+↓
+v1.0完成
+
