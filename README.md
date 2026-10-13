@@ -21,6 +21,8 @@ $ npm install zustand
 $ npm install dexie
 $ npm install lucide-react
 
+
+```
 src/
 ├── types/          # キャラクター型、アイテム型、モンスター型などの定義 (d.ts)
 ├── store/          # ゲームの状態管理（セーブ・ロード、バトル状態など）
@@ -128,3 +130,4 @@ Phase9 セーブロード
 ↓
 v1.0完成
 
+```
